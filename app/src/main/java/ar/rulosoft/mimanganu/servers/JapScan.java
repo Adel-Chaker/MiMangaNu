@@ -26,7 +26,7 @@ import static ar.rulosoft.mimanganu.utils.PostProcess.FLAG_PPL90;
  */
 class JapScan extends ServerBase {
     private static final String TAGWEBTOON = "[1webtoon1]";
-    private static final String HOST = "https://www.japscan.co";
+    private static final String HOST = "https://www.japscan.me";
     private static HashMap<String, String> dicc = new HashMap<>();
     private static ArrayList<String> currentScripts = new ArrayList<>();
 
